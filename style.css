@@ -145,8 +145,8 @@ button:hover {
     margin-top: 10px;
     margin-left: 15px;
     background-color: #d1d2d4;
-    width: 50%;
-    height: 8rem;
+    width: fit-content;
+    height: 5rem;
     display: flex;
     justify-content: space-between;
     border-radius: 5px;
